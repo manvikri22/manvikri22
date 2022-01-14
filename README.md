@@ -1,4 +1,8 @@
-<h1 align="center">Hello 👋, I'm Manvi Kumari Shah</h1>
+<h1 align="left">Hey 👋 </h1>
+<h3 align="left">I am Manvi kumari shah</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manvikri22&label=Profile%20views&color=0e75b6&style=flat" alt="manvikri22" /> </p>
+
 - 🔭 I’m currently working on **Upcoming Repository**
 
 - 🌱 I’m currently learning **DSA,Android Development etc.**
